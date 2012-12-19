@@ -1,0 +1,12 @@
+[Sun Dec 16 18:47:33.517 2012] [ 8519] accepting connections
+[Sun Dec 16 19:01:18.938 2012] [ 8519] caught SIGHUP (seamless=1, in queue=1)
+[Sun Dec 16 19:01:18.942 2012] [ 8519] rotating index 'book': success
+[Sun Dec 16 19:01:18.942 2012] [ 8519] rotating finished
+[Sun Dec 16 19:04:59.303 2012] [ 8519] caught SIGHUP (seamless=1, in queue=1)
+[Sun Dec 16 19:04:59.307 2012] [ 8519] rotating index 'book': success
+[Sun Dec 16 19:04:59.307 2012] [ 8519] rotating finished
+[Mon Dec 17 00:39:15.142 2012] [ 8519] caught SIGHUP (seamless=1, in queue=1)
+[Mon Dec 17 00:39:15.144 2012] [ 8519] rotating index 'book': success
+[Mon Dec 17 00:39:15.145 2012] [ 8519] rotating finished
+[Mon Dec 17 02:10:11.941 2012] [ 8519] caught SIGTERM, shutting down
+[Mon Dec 17 02:10:12.019 2012] [ 8519] shutdown complete
